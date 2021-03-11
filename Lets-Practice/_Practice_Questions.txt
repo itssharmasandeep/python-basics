@@ -3,3 +3,7 @@
 
 #Problem-1 : Input an integer number from user and find the last digit of that integer number. Assume that number is positive interger.
 # Eg: if number is 1234 then output should be 4 as 4 is the last digit
+
+#Problem-2 : Input two integer numbers and check first is bigger or equal.
+# Eg: first: 49 , second: 55 print False because first is smaller than second 
+# Eg: first: 55 , second: 55 print True as both equal
