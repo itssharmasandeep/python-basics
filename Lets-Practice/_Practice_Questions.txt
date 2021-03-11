@@ -1,0 +1,5 @@
+# All Practice Question Problem statements
+# Created By: Sandeep Sharma 11-Mar-2021
+
+#Problem-1 : Input an integer number from user and find the last digit of that integer number. Assume that number is positive interger.
+# Eg: if number is 1234 then output should be 4 as 4 is the last digit
